@@ -11,7 +11,7 @@ Here, you'll find a curated collection of projects completed as part of Coursera
 
 ## Contributions
 
-Contributions and feedback are welcome! If you'd like to contribute to a project or suggest improvements, please follow these steps:
+Contributions and feedback are more than welcome! If you'd like to contribute to a project or suggest improvements, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch
